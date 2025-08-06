@@ -24,8 +24,8 @@
 	•	DecisionTreeClassifier: Builds model
 	•	plot_tree: Visualizes tree
 	•	accuracy_score, classification_report: Model evaluation
-TASK 2
-🔹 Sentiment Analysis
+ 
+TASK 2🔹 Sentiment Analysis
 	•	Pandas: Loads and displays data.
 	•	re (Regex): Cleans text data.
 	•	TF-IDF Vectorizer: Converts text into numbers.
